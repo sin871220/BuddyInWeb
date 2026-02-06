@@ -6,11 +6,13 @@
     <type fullname="Crystal.SafeArea" preserve="all" />
     <type fullname="EpisodeData" preserve="all" />
     <type fullname="Plan_Item" preserve="all" />
+    <type fullname="POCTutorial" preserve="all" />
     <type fullname="StoryData" preserve="all" />
     <type fullname="StoryDataAsset" preserve="all" />
     <type fullname="TestExcel" preserve="all" />
     <type fullname="UIPopup_OneButton" preserve="all" />
     <type fullname="UIPopup_OutOfCoupon" preserve="all" />
+    <type fullname="UIPopup_POCTutorial" preserve="all" />
     <type fullname="UIPopup_Replay" preserve="all" />
     <type fullname="UIPopup_Test" preserve="all" />
     <type fullname="UIPopup_TwoButton" preserve="all" />
@@ -40,6 +42,8 @@
     <type fullname="ImageViewNode" preserve="nothing" serialized="true" />
     <type fullname="MessageViewNode" preserve="nothing" serialized="true" />
     <type fullname="NextDrillNode" preserve="nothing" serialized="true" />
+    <type fullname="POCTutorial/Param" preserve="nothing" serialized="true" />
+    <type fullname="POCTutorial/Sheet" preserve="nothing" serialized="true" />
     <type fullname="RotaryHeart.Lib.SerializableDictionary.ReorderableList" preserve="nothing" serialized="true" />
     <type fullname="StoryData/ExcelDictionary" preserve="nothing" serialized="true" />
     <type fullname="StoryData/Param" preserve="nothing" serialized="true" />
