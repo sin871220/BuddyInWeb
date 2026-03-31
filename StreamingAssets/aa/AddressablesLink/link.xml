@@ -18,6 +18,7 @@
     <type fullname="UIPopup_TwoButton" preserve="all" />
     <type fullname="UIPopup_UnlockBonus" preserve="all" />
     <type fullname="UIScreen_SceneChange" preserve="all" />
+    <type fullname="UIScreen_ServerLoading" preserve="all" />
     <type fullname="UISound" preserve="all" />
     <type fullname="UIStory_DemoVerClearPopup" preserve="all" />
     <type fullname="UIStory_EpisodeClearPopup" preserve="all" />
@@ -26,6 +27,7 @@
     <type fullname="UIText" preserve="all" />
     <type fullname="UIWindow_MainHud" preserve="all" />
     <type fullname="UIWindow_Plan" preserve="all" />
+    <type fullname="UIWindow_TempHud" preserve="all" />
     <type fullname="UIWindow_Test" preserve="all" />
     <type fullname="BackgroundNode" preserve="nothing" serialized="true" />
     <type fullname="BuddyPlanData/Param" preserve="nothing" serialized="true" />
@@ -34,12 +36,10 @@
     <type fullname="CharacterData" preserve="nothing" serialized="true" />
     <type fullname="ChoiceNode" preserve="nothing" serialized="true" />
     <type fullname="DemoVerClearNode" preserve="nothing" serialized="true" />
-    <type fullname="EFSPlayNode" preserve="nothing" serialized="true" />
     <type fullname="EndScreenNode" preserve="nothing" serialized="true" />
     <type fullname="EpisodeData/Param" preserve="nothing" serialized="true" />
     <type fullname="EpisodeData/Sheet" preserve="nothing" serialized="true" />
     <type fullname="FINNode" preserve="nothing" serialized="true" />
-    <type fullname="ImageViewNode" preserve="nothing" serialized="true" />
     <type fullname="MessageViewNode" preserve="nothing" serialized="true" />
     <type fullname="NextDrillNode" preserve="nothing" serialized="true" />
     <type fullname="POCTutorial/Param" preserve="nothing" serialized="true" />
