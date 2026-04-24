@@ -13,6 +13,7 @@
     <type fullname="UIPopup_OneButton" preserve="all" />
     <type fullname="UIPopup_OutOfCoupon" preserve="all" />
     <type fullname="UIPopup_POCTutorial" preserve="all" />
+    <type fullname="UIPopup_Recode" preserve="all" />
     <type fullname="UIPopup_Replay" preserve="all" />
     <type fullname="UIPopup_Test" preserve="all" />
     <type fullname="UIPopup_TwoButton" preserve="all" />
@@ -27,7 +28,9 @@
     <type fullname="UIText" preserve="all" />
     <type fullname="UIWindow_MainHud" preserve="all" />
     <type fullname="UIWindow_Plan" preserve="all" />
+    <type fullname="UIWindow_TempAllEpisodes" preserve="all" />
     <type fullname="UIWindow_TempHud" preserve="all" />
+    <type fullname="UIWindow_TempHud2" preserve="all" />
     <type fullname="UIWindow_Test" preserve="all" />
     <type fullname="BackgroundNode" preserve="nothing" serialized="true" />
     <type fullname="BuddyPlanData/Param" preserve="nothing" serialized="true" />
@@ -35,7 +38,6 @@
     <type fullname="CameraShakeNode" preserve="nothing" serialized="true" />
     <type fullname="CharacterData" preserve="nothing" serialized="true" />
     <type fullname="ChoiceNode" preserve="nothing" serialized="true" />
-    <type fullname="DemoVerClearNode" preserve="nothing" serialized="true" />
     <type fullname="EndScreenNode" preserve="nothing" serialized="true" />
     <type fullname="EpisodeData/Param" preserve="nothing" serialized="true" />
     <type fullname="EpisodeData/Sheet" preserve="nothing" serialized="true" />
